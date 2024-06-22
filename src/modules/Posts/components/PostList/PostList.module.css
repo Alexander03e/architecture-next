@@ -1,0 +1,10 @@
+.postWrapper{
+  border: 1px solid black;
+  border-radius: 0.5rem;
+  padding: 0.2rem;
+}
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}

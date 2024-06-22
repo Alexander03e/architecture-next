@@ -1,0 +1,14 @@
+.innerWrapper{
+  display:flex;
+  gap: 1rem;
+}
+
+.wrapper{
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 0.5rem;
+}
+.deleteButton{
+  border: 1px solid red;
+  cursor:pointer;
+}
